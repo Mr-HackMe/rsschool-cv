@@ -26,7 +26,7 @@ case "Синий":
     case "Зелёный":
         alert('Не молодец');
         break;
-        default: alert('Тоже хорошо')
+        default: alert('Тоже неплох')
 }
 
 ```
